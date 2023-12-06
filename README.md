@@ -1,2 +1,2 @@
 # mobile-tests
-Pagina para hacer tests para web en mobil
+Pagina para hacer tests de web en móvil
