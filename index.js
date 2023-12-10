@@ -19,3 +19,6 @@ div1.addEventListener('touchend', changeColor1)
 div1.addEventListener('touchmove', changeColor2 );
 
 
+div1.addEventListener('mouseover', changeColor);
+div1.addEventListener('mouseleave', changeColor1)
+div1.addEventListener('click', changeColor2 );
